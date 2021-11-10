@@ -1,6 +1,13 @@
 # article-clip-app
 This app for clipping articles.
 
+
+git clone
+
+docker-compose -d up
+
+dcoer-compose exec frontend 
+
 npm install @material-ui/core
 npm install @material-ui/icons
 npm install @material-ui/lab
